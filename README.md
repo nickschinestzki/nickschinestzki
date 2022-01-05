@@ -1,4 +1,4 @@
-### Hi there, I'm Nicolas Schinestzki 👋
+### Hi there, I'm Nicolas Schinestzki <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I love bringing amazing ideas to life.
 
