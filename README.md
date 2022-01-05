@@ -1,5 +1,12 @@
 ### Hi there, I'm Nicolas Schinestzki 👋
 
+I love bringing amazing ideas to life.
+
+- 🔭 I'm currently working on an educational platform
+- ⚡️ I'm aaalways studying React and React Native
+- 😄 I love working with Typescript 
+- 💡 I'm constantly working with services like <a href="https://firebase.google.com">🔥Firebase</a> and libraries like <a href="https://chakra-ui.com">⚡️ChakraUI</a> - they're sooo handy.
+
 <div>
   <a href="https://github.com/nickschinestzki"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickschinestzki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -8,6 +15,7 @@
 
 <br/>
 
+### My skills include
 <div style="display: inline_block"> 
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
