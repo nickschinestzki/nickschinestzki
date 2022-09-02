@@ -2,10 +2,9 @@
 
 I love bringing amazing ideas to life.
 
-- 🔭 I'm currently working on an educational platform
-- ⚡️ I'm aaalways studying React and React Native
+- ⚡️ I'm always studying React and React Native
 - 😄 I love working with Typescript 
-- 💡 I'm constantly working with services like <a href="https://firebase.google.com">🔥Firebase</a> and libraries like <a href="https://chakra-ui.com">⚡ChakraUI</a> - they're sooo handy.
+- 💡 I'm constantly working with services like <a href="https://firebase.google.com">🔥Firebase</a> and libraries like <a href="https://chakra-ui.com">⚡ChakraUI</a> - they're very handy.
 
 <div>
   <a href="https://github.com/nickschinestzki"/>
